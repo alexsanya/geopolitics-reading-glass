@@ -1,6 +1,6 @@
 # YouTube Comments Analysis: Israel's Strike on Qatar
 
-![Project Cover](cover.png)
+![Project Cover](cover-small.png)
 
 *AI-powered analysis of YouTube comments using DSPy for multi-dimensional sentiment classification*
 
@@ -10,13 +10,13 @@ This project performs comprehensive analysis of YouTube comments from a CaspianR
 
 ## Key Features
 
-- **<¯ Smart Relevance Filtering**: AI-powered filtering to identify topically relevant comments
-- **=Ê Multi-Dimensional Analysis**: Sentiment analysis toward Israel, US, Qatar, and Hamas
-- **>à Intelligence Scoring**: Assessment of comment sophistication and reasoning quality
-- **=¡ Insight Classification**: Categorization of comment types (factual corrections, historical parallels, etc.)
+- ** Smart Relevance Filtering**: AI-powered filtering to identify topically relevant comments
+- ** Multi-Dimensional Analysis**: Sentiment analysis toward Israel, US, Qatar, and Hamas
+- ** Intelligence Scoring**: Assessment of comment sophistication and reasoning quality
+- ** Insight Classification**: Categorization of comment types (factual corrections, historical parallels, etc.)
 - **=
  Emotional Analysis**: Measurement of emotional intensity and inflammatory content
-- **¡ Async Processing**: Efficient parallel processing of large comment datasets
+- ** Async Processing**: Efficient parallel processing of large comment datasets
 
 ## Architecture
 
@@ -166,9 +166,9 @@ This project demonstrates advanced AI application patterns for social media anal
 - Visualization and reporting enhancements
 - Performance optimizations
 
-## License
+## Original video
 
-[Add your license information here]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZM2Ik-FHEU?si=Dq_8mE1BLV1wJJJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
