@@ -1,6 +1,8 @@
 # YouTube Comments Analysis: Israel's Strike on Qatar
 
-![Project Cover](cover-small.png)
+<div align="center">
+  <img src="cover.png" alt="Project Cover" width="400">
+</div>
 
 *AI-powered analysis of YouTube comments using DSPy for multi-dimensional sentiment classification*
 
@@ -168,7 +170,7 @@ This project demonstrates advanced AI application patterns for social media anal
 
 ## Original video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eZM2Ik-FHEU?si=Dq_8mE1BLV1wJJJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/eZM2Ik-FHEU?si=SRGsGZs2AJ71HPgD
 
 ---
 
